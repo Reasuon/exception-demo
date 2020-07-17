@@ -13,7 +13,7 @@ import java.util.Enumeration;
  * {@code @ControllerAdvice} 标签只注册了 Controller.class<br>
  * 那么 @RestController 的 controller 抛出就无法被该类监听到
  *
- * @author Reasuon reasuon@foxmail.com
+ * @author Reasuon reasuon@gmail.com
  * @since 2020/7/17
  */
 @ControllerAdvice(annotations = Controller.class)

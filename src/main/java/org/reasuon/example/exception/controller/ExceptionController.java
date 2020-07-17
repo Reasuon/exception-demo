@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * @author Reasuon reasuon@foxmail.com
+ * @author Reasuon reasuon@gmail.com
  * @since 2020/7/17
  */
 @Controller
